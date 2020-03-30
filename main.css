@@ -1,0 +1,42 @@
+
+   
+
+
+    body {
+        background: #1E90FF;
+        font-family: 'Titillium Web', sans-serif; 
+   }
+   header {
+        padding-top: 60px;
+        padding-bottom: 10px;
+        margin-top: 5px;
+   }
+
+   h3 {
+        margin-top: 75px;
+   }
+
+   .pagination {
+        border-width:1px; 
+   }
+
+   footer {
+        background: url(img/goldenbg.jpg); 
+   }
+
+  textarea  {
+       background: pink;
+  }
+
+  .paginacion ul li {
+       display:inline-block;
+       margin-right:3px;
+  }
+
+  
+  .paginacion ul li a {
+     display:block;
+     padding:10px 15px;
+     color: #fff;
+     background: blue; 
+  }
